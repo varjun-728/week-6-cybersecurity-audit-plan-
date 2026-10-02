@@ -1,0 +1,1008 @@
+# WEEK 6 – CYBERSECURITY AUDIT PLAN
+
+## Cybersecurity Internship
+
+**Name:** Arjun Vijoy T.V.
+**Task:** Week 6 – Cybersecurity Audit Plan
+**Organization:** Hypothetical Organization
+
+---
+
+# 1. Executive Summary
+
+This report presents a Cybersecurity Audit Plan designed for a hypothetical organization. The purpose of the audit plan is to establish a structured and repeatable approach for reviewing the organization's cybersecurity practices, identifying weaknesses, verifying compliance with security policies, and recommending improvements.
+
+The proposed audit covers key areas including governance, access control, authentication, network security, endpoint security, data protection, vulnerability management, incident response, backup and recovery, security awareness, third-party security, cloud security, and physical security.
+
+The audit plan uses a risk-based approach, meaning that systems and processes with higher security importance or greater potential impact receive greater attention. The plan includes audit objectives, scope, audit areas, methodology, roles and responsibilities, evidence requirements, reporting procedures, and a recurring audit schedule.
+
+Audits are planned at different frequencies depending on the risk associated with each area. Critical security controls should be reviewed regularly, while comprehensive cybersecurity audits should be performed periodically.
+
+The audit process includes planning, information gathering, control testing, finding identification, risk evaluation, reporting, remediation tracking, and follow-up verification.
+
+This plan is designed to help the hypothetical organization maintain continuous visibility into its cybersecurity posture and ensure that security controls remain effective as technology, threats, and business requirements change.
+
+---
+
+# 2. Introduction
+
+Cybersecurity audits help organizations determine whether their security controls, policies, procedures, and practices are operating effectively.
+
+A cybersecurity audit does not only focus on technical systems. It also examines governance, employee responsibilities, policies, risk management, access controls, incident response, third-party relationships, and business continuity.
+
+Regular audits can help organizations identify security gaps before they result in significant incidents.
+
+This Cybersecurity Audit Plan provides a structured approach for conducting recurring cybersecurity audits within a hypothetical organization.
+
+---
+
+# 3. Audit Objectives
+
+The main objectives of the cybersecurity audit are:
+
+* Evaluate the effectiveness of existing security controls.
+* Verify compliance with organizational security policies.
+* Identify cybersecurity weaknesses and control gaps.
+* Assess access control and authentication practices.
+* Review data protection measures.
+* Evaluate vulnerability management.
+* Review incident response capabilities.
+* Assess backup and recovery practices.
+* Evaluate employee security awareness.
+* Review third-party and cloud security.
+* Recommend practical improvements.
+* Track remediation of identified findings.
+
+---
+
+# 4. Audit Scope
+
+The cybersecurity audit will cover:
+
+* Cybersecurity governance.
+* Security policies and procedures.
+* User access management.
+* Authentication and MFA.
+* Network security.
+* Endpoint security.
+* Vulnerability management.
+* Application security.
+* Database security.
+* Data protection.
+* Cloud security.
+* Incident response.
+* Backup and disaster recovery.
+* Security awareness.
+* Third-party security.
+* Physical security.
+* Security monitoring and logging.
+
+The scope may be adjusted depending on organizational priorities and risk levels.
+
+---
+
+# 5. Audit Principles
+
+The audit should follow several important principles.
+
+## Independence
+
+Auditors should maintain sufficient independence from the activities being audited.
+
+## Risk-Based Approach
+
+Higher-risk systems and processes should receive greater audit attention.
+
+## Evidence-Based Assessment
+
+Audit conclusions should be supported by appropriate evidence.
+
+## Confidentiality
+
+Sensitive organizational information obtained during the audit must be protected.
+
+## Objectivity
+
+Findings should be documented based on observed evidence rather than assumptions.
+
+## Continuous Improvement
+
+Audit results should be used to improve cybersecurity controls and processes.
+
+---
+
+# 6. Audit Methodology
+
+The audit will follow a structured process.
+
+## Phase 1 – Planning
+
+Define the audit objectives, scope, timeline, systems, and responsible personnel.
+
+## Phase 2 – Information Gathering
+
+Collect relevant:
+
+* Security policies.
+* Procedures.
+* Network diagrams.
+* Asset inventories.
+* Access records.
+* Security logs.
+* Incident records.
+* Backup records.
+* Training records.
+
+## Phase 3 – Control Review
+
+Evaluate whether security controls are properly designed and implemented.
+
+## Phase 4 – Testing
+
+Where authorized and appropriate, test selected controls and verify evidence.
+
+## Phase 5 – Findings
+
+Document security gaps and control weaknesses.
+
+## Phase 6 – Risk Evaluation
+
+Assess the potential impact and priority of each finding.
+
+## Phase 7 – Reporting
+
+Prepare an audit report containing findings and recommendations.
+
+## Phase 8 – Follow-Up
+
+Track remediation and verify that corrective actions have been completed.
+
+---
+
+# 7. Key Audit Areas
+
+# 7.1 Cybersecurity Governance
+
+### Audit Objectives
+
+Review whether the organization has appropriate cybersecurity governance.
+
+### Areas to Review
+
+* Security policies.
+* Roles and responsibilities.
+* Security leadership.
+* Risk management.
+* Policy approval.
+* Policy review schedules.
+* Security objectives.
+
+### Evidence
+
+* Approved policies.
+* Organizational charts.
+* Risk registers.
+* Security committee records.
+
+---
+
+# 7.2 Access Control
+
+### Audit Objectives
+
+Determine whether users receive appropriate access to systems and information.
+
+### Areas to Review
+
+* User account creation.
+* Access approval.
+* Role-based access.
+* Least privilege.
+* Privileged accounts.
+* Periodic access reviews.
+* Employee offboarding.
+
+### Evidence
+
+* User access lists.
+* Access approval records.
+* Privileged account records.
+* Termination records.
+
+---
+
+# 7.3 Authentication and MFA
+
+### Audit Objectives
+
+Verify that appropriate authentication controls are implemented.
+
+### Areas to Review
+
+* Password requirements.
+* MFA coverage.
+* Administrative authentication.
+* Remote access authentication.
+* Account lockout controls.
+* Authentication monitoring.
+
+### Evidence
+
+* Authentication configuration.
+* MFA enrollment reports.
+* Password policies.
+* Security logs.
+
+---
+
+# 7.4 Network Security
+
+### Audit Objectives
+
+Evaluate the security of organizational networks.
+
+### Areas to Review
+
+* Firewall configurations.
+* Network segmentation.
+* Wireless security.
+* VPN configuration.
+* External exposure.
+* Network monitoring.
+* Firewall rule reviews.
+
+### Evidence
+
+* Network diagrams.
+* Firewall rules.
+* VPN configurations.
+* Network monitoring reports.
+
+---
+
+# 7.5 Endpoint Security
+
+### Audit Objectives
+
+Determine whether employee devices are adequately protected.
+
+### Areas to Review
+
+* Antivirus or endpoint protection.
+* Security patching.
+* Device encryption.
+* Host firewalls.
+* Administrative privileges.
+* Device inventory.
+* Security monitoring.
+
+### Evidence
+
+* Endpoint management reports.
+* Patch reports.
+* Security alerts.
+* Device inventory.
+
+---
+
+# 7.6 Vulnerability Management
+
+### Audit Objectives
+
+Evaluate how the organization identifies and addresses vulnerabilities.
+
+### Areas to Review
+
+* Vulnerability scanning.
+* Patch management.
+* Risk prioritization.
+* Remediation tracking.
+* Verification.
+* Unsupported systems.
+
+### Evidence
+
+* Vulnerability scan reports.
+* Patch reports.
+* Remediation records.
+* Asset inventory.
+
+---
+
+# 7.7 Application Security
+
+### Audit Objectives
+
+Review the security of organizational applications.
+
+### Areas to Review
+
+* Secure development practices.
+* Authentication.
+* Authorization.
+* Dependency management.
+* Application testing.
+* Security updates.
+* Error handling.
+
+### Evidence
+
+* Application security assessments.
+* Test reports.
+* Development procedures.
+* Dependency records.
+
+---
+
+# 7.8 Database Security
+
+### Audit Objectives
+
+Verify that sensitive databases are appropriately protected.
+
+### Areas to Review
+
+* Database access.
+* User privileges.
+* Authentication.
+* Encryption.
+* Database monitoring.
+* Backup procedures.
+* Administrative access.
+
+### Evidence
+
+* Database user lists.
+* Access logs.
+* Configuration records.
+* Backup records.
+
+---
+
+# 7.9 Data Protection
+
+### Audit Objectives
+
+Determine whether sensitive information is properly protected.
+
+### Areas to Review
+
+* Data classification.
+* Encryption.
+* Data access.
+* Data sharing.
+* Data retention.
+* Secure deletion.
+* Sensitive information handling.
+
+### Evidence
+
+* Data classification policy.
+* Access records.
+* Encryption configuration.
+* Data retention procedures.
+
+---
+
+# 7.10 Cloud Security
+
+### Audit Objectives
+
+Review the security configuration of cloud services.
+
+### Areas to Review
+
+* Cloud identity management.
+* Access permissions.
+* MFA.
+* Storage security.
+* Encryption.
+* Logging.
+* Configuration management.
+
+### Evidence
+
+* Cloud configuration reports.
+* Access records.
+* Security logs.
+* Cloud security assessments.
+
+---
+
+# 7.11 Incident Response
+
+### Audit Objectives
+
+Determine whether the organization can effectively respond to cybersecurity incidents.
+
+### Areas to Review
+
+* Incident response plan.
+* Incident reporting.
+* Response roles.
+* Escalation procedures.
+* Evidence preservation.
+* Communication procedures.
+* Incident exercises.
+* Lessons learned.
+
+### Evidence
+
+* Incident response plan.
+* Incident records.
+* Exercise reports.
+* Incident communication procedures.
+
+---
+
+# 7.12 Backup and Disaster Recovery
+
+### Audit Objectives
+
+Verify that critical information and systems can be recovered after an incident.
+
+### Areas to Review
+
+* Backup frequency.
+* Backup protection.
+* Backup access.
+* Backup isolation.
+* Recovery procedures.
+* Restoration testing.
+* Disaster recovery planning.
+
+### Evidence
+
+* Backup reports.
+* Recovery test results.
+* Disaster recovery plan.
+* Backup configuration.
+
+---
+
+# 7.13 Security Awareness
+
+### Audit Objectives
+
+Evaluate employee cybersecurity awareness.
+
+### Areas to Review
+
+* Employee training.
+* New employee training.
+* Phishing awareness.
+* Security policy awareness.
+* Training completion.
+* Security simulations.
+
+### Evidence
+
+* Training records.
+* Quiz results.
+* Phishing simulation reports.
+* Awareness materials.
+
+---
+
+# 7.14 Third-Party Security
+
+### Audit Objectives
+
+Evaluate risks introduced by vendors and external service providers.
+
+### Areas to Review
+
+* Vendor security assessments.
+* Contractual security requirements.
+* Third-party access.
+* Data sharing.
+* Incident notification.
+* Vendor offboarding.
+
+### Evidence
+
+* Vendor assessments.
+* Contracts.
+* Access records.
+* Security questionnaires.
+
+---
+
+# 7.15 Physical Security
+
+### Audit Objectives
+
+Determine whether physical access to critical systems and facilities is adequately controlled.
+
+### Areas to Review
+
+* Physical access controls.
+* Visitor management.
+* Server room security.
+* CCTV where applicable.
+* Device protection.
+* Environmental controls.
+
+### Evidence
+
+* Access records.
+* Visitor logs.
+* Physical security procedures.
+* Facility inspection records.
+
+---
+
+# 7.16 Security Monitoring and Logging
+
+### Audit Objectives
+
+Determine whether security events are adequately monitored.
+
+### Areas to Review
+
+* Log collection.
+* Security alerts.
+* Authentication monitoring.
+* Privileged activity.
+* Log retention.
+* Alert investigation.
+* Monitoring coverage.
+
+### Evidence
+
+* Security logs.
+* Monitoring reports.
+* Alert records.
+* Log retention configuration.
+
+---
+
+# 8. Audit Risk Classification
+
+Audit findings can be categorized as:
+
+## Critical
+
+A major control failure that could significantly affect critical systems, sensitive information, or business operations.
+
+## High
+
+A significant security weakness requiring timely corrective action.
+
+## Medium
+
+A security gap that should be addressed through planned remediation.
+
+## Low
+
+A minor weakness that can be addressed through routine improvement activities.
+
+---
+
+# 9. Audit Evidence Collection
+
+The audit team should collect appropriate evidence such as:
+
+* Security policies.
+* System configurations.
+* Access control records.
+* Network diagrams.
+* Vulnerability reports.
+* Patch management reports.
+* Security logs.
+* Incident records.
+* Backup reports.
+* Training records.
+* Vendor assessments.
+* Previous audit reports.
+
+Evidence should be securely stored and accessed only by authorized personnel.
+
+---
+
+# 10. Audit Schedule
+
+A recurring audit schedule is recommended.
+
+| Audit Area                   | Frequency           |
+| ---------------------------- | ------------------- |
+| Access Control               | Quarterly           |
+| Privileged Accounts          | Quarterly           |
+| Vulnerability Management     | Monthly / Quarterly |
+| Security Monitoring          | Quarterly           |
+| Backup and Recovery          | Quarterly           |
+| Security Awareness           | Quarterly           |
+| Network Security             | Semi-Annually       |
+| Endpoint Security            | Quarterly           |
+| Incident Response            | Semi-Annually       |
+| Cloud Security               | Quarterly           |
+| Third-Party Security         | Annually            |
+| Application Security         | Semi-Annually       |
+| Data Protection              | Semi-Annually       |
+| Physical Security            | Annually            |
+| Complete Cybersecurity Audit | Annually            |
+
+The exact frequency should be adjusted according to organizational risk.
+
+---
+
+# 11. Annual Audit Cycle
+
+## Quarter 1
+
+Focus on:
+
+* Governance.
+* Access control.
+* Authentication.
+* Privileged accounts.
+
+## Quarter 2
+
+Focus on:
+
+* Network security.
+* Endpoint security.
+* Vulnerability management.
+* Application security.
+
+## Quarter 3
+
+Focus on:
+
+* Data protection.
+* Cloud security.
+* Backup and disaster recovery.
+* Incident response.
+
+## Quarter 4
+
+Focus on:
+
+* Third-party security.
+* Physical security.
+* Security awareness.
+* Overall cybersecurity review.
+
+The annual cycle should conclude with an overall management review and planning for the next audit cycle.
+
+---
+
+# 12. Audit Team Roles
+
+## Audit Lead
+
+Responsible for:
+
+* Planning the audit.
+* Defining scope.
+* Coordinating activities.
+* Reviewing findings.
+* Preparing the final report.
+
+## Security Team
+
+Responsible for:
+
+* Providing security documentation.
+* Explaining security controls.
+* Supporting technical assessments.
+* Addressing security findings.
+
+## IT Team
+
+Responsible for:
+
+* Providing system information.
+* Supporting configuration reviews.
+* Providing technical evidence.
+* Implementing corrective actions.
+
+## System Owners
+
+Responsible for:
+
+* Explaining system-specific controls.
+* Providing required evidence.
+* Addressing identified weaknesses.
+
+## Management
+
+Responsible for:
+
+* Reviewing audit results.
+* Approving remediation priorities.
+* Providing resources.
+* Monitoring progress.
+
+---
+
+# 13. Audit Reporting
+
+The final audit report should include:
+
+1. Executive Summary.
+2. Audit Objectives.
+3. Audit Scope.
+4. Methodology.
+5. Systems and Processes Reviewed.
+6. Key Findings.
+7. Risk Classification.
+8. Evidence.
+9. Recommendations.
+10. Management Response.
+11. Remediation Timeline.
+12. Follow-Up Requirements.
+
+Findings should clearly explain:
+
+* What was identified.
+* Why it matters.
+* Supporting evidence.
+* Recommended corrective action.
+* Responsible owner.
+* Target completion date.
+
+---
+
+# 14. Remediation Tracking
+
+All significant audit findings should be tracked until resolution.
+
+A remediation register can contain:
+
+| Finding                | Risk   | Owner         | Target Date  | Status |
+| ---------------------- | ------ | ------------- | ------------ | ------ |
+| Access control gap     | High   | IT Team       | Defined date | Open   |
+| Missing MFA            | High   | Security Team | Defined date | Open   |
+| Patch management issue | High   | IT Team       | Defined date | Open   |
+| Backup testing gap     | Medium | IT Team       | Defined date | Open   |
+| Awareness gap          | Medium | HR/Security   | Defined date | Open   |
+
+Status can be classified as:
+
+* Open
+* In Progress
+* Remediated
+* Accepted Risk
+* Closed
+
+---
+
+# 15. Follow-Up Audit
+
+A follow-up review should be performed after the organization has had sufficient time to address audit findings.
+
+The follow-up should verify:
+
+* Whether corrective actions were completed.
+* Whether security controls were implemented correctly.
+* Whether the original risk has been reduced.
+* Whether additional issues remain.
+
+Evidence should be collected before marking a finding as closed.
+
+---
+
+# 16. Audit Metrics
+
+The organization should monitor cybersecurity audit performance using metrics such as:
+
+* Number of audits completed.
+* Number of findings identified.
+* Number of critical and high findings.
+* Percentage of findings remediated.
+* Average remediation time.
+* Number of overdue findings.
+* Percentage of systems covered by audits.
+* Percentage of employees completing security training.
+* Percentage of critical systems reviewed.
+* Number of recurring audit findings.
+
+These metrics can help management monitor cybersecurity improvement over time.
+
+---
+
+# 17. Audit Tools and Techniques
+
+Depending on the audit scope, authorized audit activities may include:
+
+* Document review.
+* Interviews.
+* Configuration review.
+* Log review.
+* Access review.
+* Vulnerability assessment reports.
+* Security questionnaires.
+* Compliance checklists.
+* Backup verification.
+* Policy review.
+* Technical control testing.
+
+Technical testing should only be conducted with proper authorization and within the approved audit scope.
+
+---
+
+# 18. Audit Communication Plan
+
+Effective communication is important throughout the audit.
+
+### Before the Audit
+
+Notify relevant teams about:
+
+* Audit objectives.
+* Scope.
+* Schedule.
+* Required evidence.
+* Key contacts.
+
+### During the Audit
+
+Provide updates regarding:
+
+* Progress.
+* Evidence requirements.
+* Significant findings.
+* Issues requiring clarification.
+
+### After the Audit
+
+Communicate:
+
+* Final findings.
+* Risk levels.
+* Recommendations.
+* Remediation responsibilities.
+* Follow-up dates.
+
+Critical security findings should be escalated promptly rather than waiting for the final report.
+
+---
+
+# 19. Audit Quality and Confidentiality
+
+Audit information may contain sensitive organizational details.
+
+Therefore:
+
+* Audit evidence should be securely stored.
+* Access should be limited to authorized personnel.
+* Sensitive findings should be handled carefully.
+* Reports should be shared only with appropriate stakeholders.
+* Audit records should follow organizational retention requirements.
+
+Audit activities should also be performed consistently to ensure that results are reliable and comparable over time.
+
+---
+
+# 20. Continuous Improvement
+
+The audit program should evolve based on:
+
+* Previous audit findings.
+* Security incidents.
+* Changes in technology.
+* New cybersecurity threats.
+* Business changes.
+* Regulatory requirements.
+* Changes in organizational risk.
+
+Recurring issues should receive additional attention to determine whether existing controls are ineffective or insufficient.
+
+---
+
+# 21. Recommended Implementation Roadmap
+
+## Phase 1 – First 30 Days
+
+* Approve the audit plan.
+* Identify critical systems.
+* Define audit ownership.
+* Establish evidence collection procedures.
+* Create an audit findings register.
+
+## Phase 2 – 31 to 90 Days
+
+* Conduct priority control reviews.
+* Review access management.
+* Review vulnerability management.
+* Evaluate backup controls.
+* Review security monitoring.
+
+## Phase 3 – 91 to 180 Days
+
+* Complete additional audit areas.
+* Conduct incident response assessment.
+* Review third-party security.
+* Review cloud security.
+* Conduct employee awareness assessment.
+
+## Phase 4 – 181 to 365 Days
+
+* Complete the annual cybersecurity audit.
+* Track outstanding findings.
+* Verify remediation.
+* Present results to management.
+* Update the next year's audit plan.
+
+---
+
+# 22. Expected Benefits
+
+A structured cybersecurity audit program can help the organization:
+
+* Identify security weaknesses.
+* Improve security controls.
+* Reduce cybersecurity risks.
+* Improve policy compliance.
+* Strengthen access management.
+* Improve incident preparedness.
+* Protect sensitive information.
+* Improve backup and recovery capabilities.
+* Increase employee security awareness.
+* Support continuous cybersecurity improvement.
+
+---
+
+# 23. Limitations
+
+This audit plan is designed for a hypothetical organization and does not represent an audit of a real company's systems.
+
+Actual audit procedures, scope, evidence requirements, and schedules should be customized based on the organization's:
+
+* Size.
+* Industry.
+* Technology environment.
+* Risk profile.
+* Regulatory requirements.
+* Business objectives.
+
+Any technical testing should be authorized in advance and conducted within an approved scope.
+
+---
+
+# 24. Conclusion
+
+This Cybersecurity Audit Plan provides a structured approach for regularly evaluating the cybersecurity practices of a hypothetical organization.
+
+The plan covers key areas including governance, access control, authentication, network security, endpoint security, vulnerability management, applications, databases, data protection, cloud security, incident response, backup and recovery, security awareness, third-party security, physical security, and security monitoring.
+
+A risk-based audit approach allows the organization to focus greater attention on systems and processes that have higher potential security impact. The proposed schedule combines monthly, quarterly, semi-annual, and annual reviews to maintain continuous visibility into the organization's security posture.
+
+The audit process should include planning, evidence collection, control assessment, testing, finding identification, risk evaluation, reporting, remediation tracking, and follow-up verification.
+
+Cybersecurity auditing should not be treated as a one-time activity. Regular audits and continuous follow-up can help organizations identify weaknesses, verify that security controls remain effective, and adapt to changing technologies and threats.
+
+By implementing this audit plan, the hypothetical organization can establish a repeatable process for measuring and improving its cybersecurity practices.
+
+---
+
+# 25. References
+
+1. National Institute of Standards and Technology (NIST) – Cybersecurity Framework (CSF) 2.0.
+2. National Institute of Standards and Technology (NIST) – Security and Privacy Controls for Information Systems and Organizations.
+3. National Institute of Standards and Technology (NIST) – Risk Management Framework.
+4. Cybersecurity and Infrastructure Security Agency (CISA) – Cybersecurity Guidance and Resources.
+5. Center for Internet Security (CIS) – CIS Critical Security Controls.
+
+---
+
+# 26. Final Checklist
+
+* [x] Audit objectives defined.
+* [x] Audit scope defined.
+* [x] Risk-based methodology included.
+* [x] Key cybersecurity audit areas identified.
+* [x] Evidence collection process included.
+* [x] Audit frequency established.
+* [x] Annual audit cycle created.
+* [x] Roles and responsibilities defined.
+* [x] Audit reporting process included.
+* [x] Remediation tracking included.
+* [x] Follow-up process included.
+* [x] Audit metrics defined.
+* [x] Communication plan included.
+* [x] Implementation roadmap included.
+* [x] Limitations documented.
+* [x] References included.
